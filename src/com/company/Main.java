@@ -10,6 +10,6 @@ public class Main {
         ///
         ///
         ///
-        System.out.println("jack 马");
+        System.out.println("luck 马");
     }
 }
